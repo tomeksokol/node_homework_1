@@ -1,0 +1,25 @@
+{
+  "name": "node_homework_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomeksokol/node_homework_1.git"
+  },
+  "keywords": [],
+  "author": "Tomasz <fasa@.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomeksokol/node_homework_1/issues"
+  },
+  "homepage": "https://github.com/tomeksokol/node_homework_1#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
